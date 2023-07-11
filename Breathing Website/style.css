@@ -1,0 +1,21 @@
+header{
+    background-color: gray;
+}
+
+main{
+    background-color: aqua;
+    text-align: center;
+}
+
+div > section{
+    display: inline-block;
+    padding: 5%;
+    /*border-color: greenyellow;
+    border-radius: 5%;*/
+    border: 5px green solid;
+    margin: 20px
+}
+
+footer{
+    background-color: brown;
+}
